@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.30)  26 AUG 2022 16:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.10.17)  17 OCT 2022 10:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./Mémoire.tex
 (Mémoire.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-07-04>
-(C:\Users\Abidine\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(C:\Users\Abi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\Abidine\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+(C:\Users\Abi\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -23,32 +23,32 @@ File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(C:\Users\Abidine\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+(C:\Users\Abi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(C:\Users\Abidine\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Users\Abi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(C:\Users\Abidine\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/06/26 3.77 The Babel package
+(C:\Users\Abi\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen139
 \l@unhyphenated=\language79
 
-(C:\Users\Abidine\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(C:\Users\Abi\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count194
+
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\Abidine\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\Abi\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\Abidine\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french
-.ldf
+(C:\Users\Abi\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.ldf
 Language: french 2022/04/18 v3.5n French support from the babel system
 Package babel Info: Hyphen rules for 'acadian' set to \l@french
 (babel)             (\language22). Reported on input line 91.
@@ -74,24 +74,18 @@ Package babel Info: Making ? an active character on input line 433.
 \leftmarginFB=\dimen145
 \parindentFFN=\dimen146
 \FBfnindent=\dimen147
-))
-(C:\Users\Abidine\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\bab
-el-french.tex
-Package babel Info: Importing font and identification data for french
-(babel)             from babel-fr.ini. Reported on input line 11.
-)
-(C:\Users\Abidine\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
-) (C:\Users\Abidine\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+)) (C:\Users\Abi\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\Abi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(C:\Users\Abidine\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
-dftex.def
-File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+(C:\Users\Abi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfte
+x.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count268
-\l__pdf_internal_box=\box51
-) (Mémoire.aux (Présentation.aux) (Références.aux)
-(Déroulement.aux) (Solutions.aux) (Qualité.aux))
+\l__pdf_internal_box=\box50
+) (Mémoire.aux (Présentation.aux) (Déroulement.aux) (Solutions.aux)
+(Qualité.aux))
 \openout1 = `Mémoire.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -116,28 +110,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
  [1
 
-{C:/Users/Abidine/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Mémoire.
-toc)
+{C:/Users/Abi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Mémoire.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
 \tf@toc=\write3
 \openout3 = `Mémoire.toc'.
 
  [2]
 \openout2 = `Présentation.aux'.
 
-
-(Présentation.tex) [3
-
-]
-\openout2 = `Références.aux'.
-
- (Références.tex) [4
-
-
+ (Présentation.tex) [3
 
 ]
 \openout2 = `Déroulement.aux'.
 
- (Déroulement.tex) [5
+ (Déroulement.tex) [4
 
 
 
@@ -145,37 +137,37 @@ toc)
 \openout2 = `Solutions.aux'.
 
 
-(Solutions.tex) [6
+(Solutions.tex) [5
 
 
 
 ]
 \openout2 = `Qualité.aux'.
 
- (Qualité.tex) [7
+ (Qualité.tex) [6
 
 
 
 ] (Mémoire.aux (Présentation.aux)
-(Références.aux) (Déroulement.aux) (Solutions.aux) (Qualité.aux)) ) 
+(Déroulement.aux) (Solutions.aux) (Qualité.aux)) ) 
 Here is how much of TeX's memory you used:
- 2646 strings out of 478338
- 47340 string characters out of 2835756
- 358103 words of memory out of 3000000
- 21074 multiletter control sequences out of 15000+600000
- 475095 words of font info for 38 fonts, out of 8000000 for 9000
+ 2565 strings out of 478582
+ 44286 string characters out of 2845287
+ 349797 words of memory out of 3000000
+ 20754 multiletter control sequences out of 15000+600000
+ 478308 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,6n,46p,312b,426s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Use
-rs\Abidine\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk>
- <C:\Users\Abidine\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx
-1728.pk> <C:\Users\Abidine\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
-600\ecrm1200.pk> <C:\Users\Abidine\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
-n/ec/dpi600\ecrm1440.pk> <C:\Users\Abidine\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecrm2074.pk>
-Output written on Mémoire.pdf (7 pages, 58379 bytes).
+ 39i,6n,46p,333b,426s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Abi\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Abi\AppData\
+Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Abi\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Abi\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\
+Abi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Us
+ers\Abi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
+Output written on Mémoire.pdf (6 pages, 62799 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
+ 199 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

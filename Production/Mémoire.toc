@@ -1,6 +1,7 @@
 \babel@toc {french}{}\relax 
-\contentsline {section}{\numberline {1}Présentation de l'entreprise}{3}{}%
-\contentsline {section}{\numberline {2}Références}{4}{}%
-\contentsline {section}{\numberline {3}Déroulement et organisation}{5}{}%
-\contentsline {section}{\numberline {4}Solutions Techniques}{6}{}%
-\contentsline {section}{\numberline {5}Qualité et environnement}{7}{}%
+\contentsline {section}{\numberline {1}Présentation de l'entreprise : Devtech}{3}{}%
+\contentsline {subsection}{Nos objectifs}{3}{}%
+\contentsline {subsection}{Nos activités}{3}{}%
+\contentsline {section}{\numberline {2}Déroulement et organisation}{4}{}%
+\contentsline {section}{\numberline {3}Solutions Techniques}{5}{}%
+\contentsline {section}{\numberline {4}Qualité et environnement}{6}{}%
